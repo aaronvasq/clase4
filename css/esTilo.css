@@ -1,0 +1,39 @@
+.principal
+{
+    background-color: darkgreen;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.caja
+{
+    background-color: aqua;
+    width: 450px;
+    height: 650px;
+    margin: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.caja1
+{
+    background-color: crimson;
+    width: 127px;
+    height: 165px;
+    margin: 5px;
+}
+.caja2
+{
+    background-color: violet;
+    width: 400px;
+    height: 80px;
+    margin: 5px;
+}
+.caja3
+{
+    background-color: red;
+    width: 110px;
+    height: 110px;
+    margin: 20px;
+}
